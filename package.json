@@ -2,7 +2,7 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ayamkeren.github.io/UTS-FE-12/",
+  "homepage": "https://github.com/Ayamkeren/UTS-DAVA-FE",
   "type": "module",
   "scripts": {
     "dev": "vite",
