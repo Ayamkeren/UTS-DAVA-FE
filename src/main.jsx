@@ -10,19 +10,19 @@ import Customer from "./cust/Customer";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/UTS-DAVA-FE/",
     element: <App />,
   },
   {
-    path: "/fish",
+    path: "/UTS-DAVA-FE/fish",
     element: <Fish />,
   },
   {
-    path: "/transaction",
+    path: "/UTS-DAVA-FE/transaction",
     element: <Transaction />,
   },
   {
-    path: "/customer",
+    path: "/UTS-DAVA-FE/customer",
     element: <Customer />,
   },
 ]);

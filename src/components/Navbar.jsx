@@ -19,16 +19,16 @@ const Navbar = () => {
 
         <ul className="hidden xl:flex items-center gap-12 font-semibold text-base">
           <li className="p-3 hover:bg-black hover:text-white rounded-xl transition-all cursor-pointer">
-            <Link to="/">Home</Link>
+            <Link to="/UTS-DAVA-FE/">Home</Link>
           </li>
           <li className="p-3 hover:bg-black hover:text-white rounded-xl transition-all cursor-pointer">
-            <Link to="/fish">Fish</Link>
+            <Link to="/UTS-DAVA-FE/fish">Fish</Link>
           </li>
           <li className="p-3 hover:bg-black hover:text-white rounded-xl transition-all cursor-pointer">
-            <Link to="/transaction">Transaction</Link>
+            <Link to="/UTS-DAVA-FE/transaction">Transaction</Link>
           </li>
           <li className="p-3 hover:bg-black hover:text-white rounded-xl transition-all cursor-pointer">
-            <Link to="/customer">Customer</Link>
+            <Link to="/UTS-DAVA-FE/customer">Customer</Link>
           </li>
           <li className="p-3 hover:bg-black hover:text-white rounded-xl transition-all cursor-pointer">
             Review
